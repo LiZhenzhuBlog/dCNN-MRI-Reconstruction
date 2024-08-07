@@ -240,7 +240,7 @@ dependencies:
   - zlib=1.2.12=h166bdaf_3
   - zstd=1.5.2=ha4553b6_0
   - pip:
-    - antspyx==0.3.8
+    - antspyx==0.4.2
     - chart-studio==1.1.0
     - cycler==0.11.0
     - fonttools==4.37.2
